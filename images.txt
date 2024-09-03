@@ -7,4 +7,3 @@ logstash:7.14.2
 kibana:7.14.2
 bladex/sentinel-dashboard
 nacos/nacos-server:2.0.3
-
