@@ -1,1 +1,9 @@
 mysql:5.7
+redislabs/redismod:latest
+rediscommander/redis-commander:latest
+apacherocketmq/rocketmq:4.5.0
+elasticsearch:7.14.2
+logstash:7.14.2
+kibana:7.14.2
+bladex/sentinel-dashboard
+nacos/nacos-server:2.0.3
